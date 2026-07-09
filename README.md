@@ -4,15 +4,19 @@ the FFF community had it coming.
 ## How to Use:
 
 ctrl + 2 	=> run stage 2 - 1 script
+
 alt  + 2 	=> run stage 2 - 2 script
 
 ctrl + 3 	=> run stage 3 - 1 script
+
 alt  + 3 	=> run stage 3 - 2 script
 
 ctrl + 4 	=> run stage 4 - 1 script
+
 alt  + 4 	=> run stage 4 - 2 script
 
 ctrl + 5 	=> run stage 4 - 1 script using $100 bet
+
 alt  + 5 	=> run stage 4 - 2 script using $100 bet"
 
 ### Stages?
